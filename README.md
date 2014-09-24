@@ -6,8 +6,13 @@ This is a Java game I made about two years ago as the final project for my AP Co
 Controls
 ========
 W - jump
+
 A - move left
+
 D - move right
+
 SPACE - shoot bullet 
+
 SHIFT (hold) - activate "matrix mode"
+
 ENTER - restart game after "game over"
